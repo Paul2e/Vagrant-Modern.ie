@@ -17,3 +17,10 @@ Valid Machine Names are:
  `Edge-Win10`  Microsoft Edge on Windows 10
 
 All Virtual Machines are subject to the same licensing conditions as set out on [https://developer.microsoft.com/en-us/microsoft-edge/tools/](Modern.ie) and will require re-creation after 90 days of use.
+
+Virtual Images are provided via the publicly repository maintained by [https://atlas.hashicorp.com/boxes/search](HashiCorp).
+
+## Pre-requisites
+
+* Oracle VirtualBox
+* Vagrant
