@@ -16,9 +16,9 @@ Valid Machine Names are:
  `IE11-Win8.1` Internet Explorer 11 on Windows 8.1
  `Edge-Win10`  Microsoft Edge on Windows 10
 
-All Virtual Machines are subject to the same licensing conditions as set out on [https://developer.microsoft.com/en-us/microsoft-edge/tools/](Modern.ie) and will require re-creation after 90 days of use.
+All Virtual Machines are subject to the same licensing conditions as set out on [Modern.ie] (https://developer.microsoft.com/en-us/microsoft-edge/tools/) and will require re-creation after 90 days of use.
 
-Virtual Images are provided via the publicly repository maintained by [https://atlas.hashicorp.com/boxes/search](HashiCorp).
+Virtual Images are provided via the publicly repository maintained by [HashiCorp] (https://atlas.hashicorp.com/boxes/search).
 
 ## Pre-requisites
 
